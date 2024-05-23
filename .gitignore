@@ -22,3 +22,8 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+
+hackrf-tcxo-backups
+production
+rescue-backup
+*.lck
